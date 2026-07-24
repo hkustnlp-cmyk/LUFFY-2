@@ -272,4 +272,10 @@ LUFFY/
 - [ ] **luffy/verl/verl/workers/sharding_manager/megatron_vllm.py:253** - (sgm): this may not be true for FSDP -> vLLM
 - [ ] **luffy/verl/verl/workers/sharding_manager/megatron_vllm.py:323** - (zhangchi.usc1992) We can consider copy non-tp weight to another infer buffer.
 
+## 🤝 Contributing
+
+1. Pick a TODO item from the list above
+2. Implement the functionality
+3. Test your implementation
+4. Update this README when TODOs are completed
 
